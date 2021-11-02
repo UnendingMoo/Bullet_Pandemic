@@ -21,7 +21,7 @@ All content © 2020 DigiPen (USA) Corporation, all rights reserved.
 Build Instructions: Open Bullet Pandemic.sln in Visual Studio
                     Run Local Windows Debugger
 
-Installation Instructions: None
+Installation Instructions: Windows will likely mistake it for a virus, so just ignore the warning and proceed
  
 "How to Play" Instructions: Move with arrow keys, z and x to shoot bullets
 			    and bombs, respectively. Dodge bullets and beat
